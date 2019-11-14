@@ -1,6 +1,6 @@
 This script will generate a QR code to scan to create a URI.  
 
-This URI will dial the number you specify.
+This URI will dial the number you specify.  In order for the AD portion to work you need to add in your AD Distinguished Name convention.
 
 Also has a feature where you can put in the service code of your dell computer to connect with someone in service.  
 It pre dials it for you so you don't have to.  Also removes the mis-dialing that might occur if you don't have 
